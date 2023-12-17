@@ -1,4 +1,4 @@
-# Intro to Research Methods
+# Frequency of English words in the Dutch language
 
 I am studying the topic of the use of English words in the Dutch language. Today, a lot of Dutch speakers tend to use or replace Dutch words with their English versions/variants, especially younger age groups. Therefore, I want to find out if there is a clear difference in the frequency of English words used by Dutch people in two different age groups. To investistage this, I will analyze tweets from Dutch users. By researching this topic, I hope to be able to show how language use can differ between different age groups and how language can evolve due to the influence of another language.
 
