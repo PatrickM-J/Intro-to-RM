@@ -12,3 +12,5 @@ In earlier studies, they also analyzed the use of English words in Dutch languag
 For this research, I will be analyzing data from two different age groups: ages 16-30 and ages 30 and above. We will use a corpus with tweets by Dutch users, where information such as their age is known. To determine if a certain word in a tweet is either Dutch or English, we will use the most recent edition of the Dutch Van Dale dictionary. If a word is found in the Van Dale dictionary it is considered Dutch, otherwise we consider it an English word. Then, we will analyze the frequency of English words by calculating the percentage of English and Dutch words used.
 
 My hypothesis for my research is that there will be a significant difference in the frequency of English words between the two age groups. Specifically, I expect the younger age group (16-30) to use English words in their vocabulary more frequently compared to the older age group (30+).
+
+On this Github page you can find the pdf of my final report, a bibliography with explanations of the sources I used and also the BibTex file used for my report.
